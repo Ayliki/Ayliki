@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Ilya Belov!
 
-<!--
-**Ayliki/Ayliki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics student at the Technical University of Vienna with a strong passion for front-end development. I specialize in **JavaScript, TypeScript, React, HTML, and CSS**, and I’m also experienced with **Node.js** and **Redux**.
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
+- Building user-friendly web applications and exploring microservice architectures.
+- Developing a **Fitness Tracker App** and other pet projects to expand my skills in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Always Learning
+I’m constantly learning and eager to dive into new technologies. I enjoy taking on challenges that allow me to grow both professionally and personally.
+
+## 💼 Projects on GitHub
+Here, you’ll find my projects like the **News App** with dark/light themes and advanced search features, and a **Movie App** built with React, TypeScript, and Redux. Check them out and feel free to explore my code!
+
+## 💬 Let's Connect
+Reach out to me for collaborations or if you have interesting project ideas. I’m always open to connecting with other developers and learning from new experiences.
