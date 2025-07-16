@@ -21,10 +21,6 @@ I'm an Informatics student at TU Wien with a deep passion for crafting engaging 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-### Tools & Others
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-
 ## 🌱 Always Growing
 
 I'm a strong believer in continuous learning and eagerly explore new tools and paradigms. I thrive on challenges that push the boundaries of my knowledge and enhance my my problem-solving skills, both in coding and life.
