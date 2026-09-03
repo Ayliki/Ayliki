@@ -1,40 +1,30 @@
-# Hi, I'm Ilya Belov 👋
+# Ilya Belov
 
-Informatics student at **TU Wien** and **full-stack developer** interested in building modern web applications and developer tools.
+Full stack engineer in Vienna. Computer Science at TU Wien, finishing June 2027.
 
-Currently working on **VWUPass** and building side projects with **React + Python**.
+### Currently
 
----
+**[VWUPass](https://vwupass.com)**, an exam prep platform for university students in Austria,
+which I build and run with a friend. 1000+ registered users, 60+ paying subscriptions,
+six exam subjects live in three languages. FastAPI and PostgreSQL behind a React frontend, running
+serverless on AWS. I work across all of it, from the CDK stack to the pricing page.
 
-## Tech Stack
+**Agent tooling.** Three Model Context Protocol servers, one in Python over a production admin
+API and two in TypeScript, so an agent can drive those systems as tools.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+### Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+Also Node, Vue, Stripe, Cognito, GitHub Actions, pytest and Playwright.
 
----
+### Elsewhere
 
-## Currently Exploring
-
-AI tools • LLM workflows • backend architecture • building useful products
-
----
-
-## Contact
-
-LinkedIn  
-https://www.linkedin.com/in/ayliki
-
-Email  
-ilyabelov518@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ayliki) · ilyabelov518@gmail.com
